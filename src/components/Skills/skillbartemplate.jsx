@@ -11,7 +11,7 @@ const skill = [
     { type: "C/CPP", level: 75 },
     { type: "Java", level: 60 },
     { type: "Flutter", level: 70 },
-    { type: "Cloud Computing (Google Cloud)", level: 80 },
+    { type: "Cloud", level: 80 },
     { type: "Linux", level: 95 },
     { type: "Googling", level: 100 },
     { type: "Figma", level: 85 },
